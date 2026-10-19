@@ -2,7 +2,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-The best way for Claude Code, Codex, and [pi](https://github.com/badlogic/pi-mono)
+The best way for Claude Code, Codex, and [pi](https://github.com/earendil-works/pi)
 to work with [Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev):
 hand the tasks that need no text output to Jev — faster steps, fewer
 tokens, tasks done sooner and better.

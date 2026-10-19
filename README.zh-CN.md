@@ -2,7 +2,7 @@
 
 [English](README.md) | **简体中文**
 
-Claude Code / Codex / [pi](https://github.com/badlogic/pi-mono) 与
+Claude Code / Codex / [pi](https://github.com/earendil-works/pi) 与
 [Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 的最佳协作方式:把不需要输出内容的任务交给 Jev——加速任务、减少 token
 消耗,更快更好地完成任务。
